@@ -51,7 +51,7 @@ By the end, you will have built and populated a substantial section of the Victo
 
 <details open> 
   <summary><h2>Chapters</summary>
-     <img src="https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif" alt="Unity Cookbook, Fifth Edition" height="556px" align="right">
+     
 <ol>
 
   <li>Getting Started: Resource Pack, Navigation, and Grey Boxing</li>
